@@ -39,7 +39,7 @@ I build useful things with code.
 ![Git](https://img.shields.io/badge/Git-00ff99?style=for-the-badge&logo=git&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGomes-phgr&layout=compact&theme=merko&hide_border=true
+
 ---
 
 <p align="center">
