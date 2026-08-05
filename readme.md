@@ -38,8 +38,8 @@ I build useful things with code.
 ![Figma](https://img.shields.io/badge/Figma-00ff99?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00ff99?style=for-the-badge&logo=git&logoColor=white)
 
-https://github.com/PedroGomes-phgr/PedroGomes-phgr/blob/output/github-contribution-grid-snake.svg
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGomes-phgr&layout=compact&theme=merko&hide_border=true
 ---
 
 <p align="center">
