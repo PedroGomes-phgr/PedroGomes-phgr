@@ -43,5 +43,4 @@ I build useful things with code.
 ---
 
 <p align="center">
-  <i>Generated with GitHub Profile Styler</i>
-</p>
+  
