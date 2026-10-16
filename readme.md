@@ -1,46 +1,92 @@
-<h1 align="center">🧪 Hi, I'm pedrohgr</h1>
+<h1 align="center">Olá, eu sou Pedro Henrique 👋</h1>
 
 <p align="center">
-  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff99&center=true&width=520&lines=Data+Analytics;Python+Developer;AI+Enthusiast;BigQuery+Explorer;UnB+Student" alt="Typing SVG" />
+  <strong>Desenvolvedor em formação · Estudante de Engenharia de Software</strong><br/>
+  Transformo ideias em soluções práticas, aprendendo na prática, um projeto de cada vez.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedroGomes-phgr&label=Profile%20views&color=00ff99&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/PedroGomes-phgr?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://github.com/PedroGomes-phgr">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="align="center">
+  <img src="https://komarev.com/ghpvc/?username=PedroGomes-phgr&color=blueviolet&-square
 </p>
-
-<p align="center">
-  <a href="https://github.com/PedroGomes-phgr"><img src="https://img.shields.io/badge/Website-00ff99?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-## 🧪 About Me
-
-I build useful things with code.
-
-- 🌐 Website: https://github.com/PedroGomes-phgr
-- 📍 Location: Brasil
-
-## ⚙️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-00ff99?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-00ff99?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ff99?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-00ff99?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-00ff99?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-00ff99?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-00ff99?style=for-the-badge&logo=fastify&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-00ff99?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00ff99?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00ff99?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00ff99?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-00ff99?style=for-the-badge&logo=vs-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-00ff99?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00ff99?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 ---
 
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Engenharia de Software** na **Universidade de Brasília (UnB)**
+- 💻 Desenvolvo aplicações web, APIs REST, bancos de dados e projetos pessoais
+- ⚙️ Experiência com **JavaScript**, **Node.js**, **Git** e desenvolvimento web
+- 📱 Estudando novas tecnologias e aprimorando conhecimentos em desenvolvimento Full Stack
+- 🔭 Focado em sistemas web, back-end e arquitetura de software
+- 🤝 Aberto a colaborar em projetos acadêmicos e open source
+- ⚡ Aprendo mais rápido construindo do que apenas estudando teoria
+
+---
+
+## 🛠️ Stack
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" altt-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Front-end" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express Banco de Dados
+
+<p>
+  https://skillicons.dev/icons?i=mysql
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|----------|----------|
+| 🚗 **Car Simulator Roblox** | Jogo focado em coleção de veículos, progressão e sistema de raridades | Roblox Studio, Lua |
+| 🌐 **Pedro.dev** | Portfólio pessoal apresentando projetos e habilidades | HTML, CSS, JavaScript |
+| ⚙️ **APIs REST** | Projetos backend para estudo de rotas, autenticação e banco de dados | Node.js, Express |
+| 📊 **Projetos Acadêmicos** | Trabalhos desenvolvidos durante a graduação | Diversas tecnologias |
+
+---
+
+## 🎯 Objetivos
+
+- [ ] Evoluir como desenvolvedor **Full Stack**
+- [ ] Aprofundar em **Node.js** e **React**
+- [ ] Aprender mais sobre **arquitetura de software**
+- [ ] Publicar projetos cada vez mais completos
+- [ ] Contribuir com projetos **open source**
+- [ ] Construir soluções que gerem impacto real para usuários
+
+---
+
+## 📊 Estatísticas
+
 <p align="center">
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroGomes-phgr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatíthub-readme-stats.vercel.app/api/top-langs/?username=PedroGomes-phgr&layout=compact&langs_count=8&theme=tokyonight&hide
+## 📫 Contato
+
+- 🐙 GitHub: https://github.com/PedroGomes-phgr
+- 🌐 Portfólio: Pedro.dev
+- 💼 LinkedIn: Adicione seu LinkedIn aqui
+
+<h3 align="center">⭐ Obrigado pela visita!</h3>
+
+<p align="center">
+  <i>"Sempre aprendendo, sempre construindo."</i>
+</p>
